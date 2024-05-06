@@ -1,7 +1,8 @@
 {
-    "manufacturer": "jnewing",
-    "keyboard_name": "xorstudio/xor_tkl",
-    "maintainer": "jnewing",
+    "keyboard_name": "xor TKL",
+    "manufacturer": "xor.studio",
+    "url": "https://xor.studio",
+    "maintainer": "xor.studio",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
@@ -17,11 +18,10 @@
         "rows": ["D1", "D1", "D1", "D1", "D1", "D1"]
     },
     "processor": "RP2040",
-    "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0xFEED"
+        "pid": "0xDEAD",
+        "vid": "0x1337"
     },
     "layouts": {
         "LAYOUT_tkl_ansi": {
