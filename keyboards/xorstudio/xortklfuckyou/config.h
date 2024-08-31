@@ -1,12 +1,12 @@
-// Copyright 2024 Joseph Newing (@Joseph Newing)
+// Copyright 2024 jnewing (@jnewing)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
 
 #define CONFIG_H
 
-#define MATRIX_ROWS 3
-#define MATRIX_COLS 3
+#define MATRIX_ROWS 13
+#define MATRIX_COLS 9
 
 /*
  * Feature disable options

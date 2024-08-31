@@ -1,4 +1,4 @@
-// Copyright 2024 jnewing (@jnewing)
+// Copyright 2024 xor.studio (@xor.studio)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once

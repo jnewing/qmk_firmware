@@ -1,7 +1,8 @@
 {
-    "manufacturer": "jnewing",
-    "keyboard_name": "xorstudio/ibtc",
-    "maintainer": "jnewing",
+    "keyboard_name": "xor ibtc",
+    "manufacturer": "xor.studio",
+    "url": "https://xor.studio",
+    "maintainer": "xor.studio",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
@@ -13,15 +14,14 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["C2", "C2", "C2"],
-        "rows": ["D1", "D1", "D1"]
+        "cols": ["GP25", "GP24", "GP23"],
+        "rows": ["GP22", "GP21", "GP20"]
     },
     "processor": "RP2040",
-    "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0xFEED"
+        "pid": "0xDEAD",
+        "vid": "0xBEEF"
     },
     "layouts": {
         "LAYOUT_ortho_3x3": {
